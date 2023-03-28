@@ -55,4 +55,6 @@ Additional participants (doctoral candidates, postdocs) will be invited to parti
 
 ### Organization
 
-The LLMs for Behavioral Science workshop has been organized by Dirk Wulff, Markus Strohmaier, and Rui Mata. Administrative support provided by Laura Wiles, Center for Cognitive and Decision Sciences, University of Basel. 
+The LLMs for Behavioral Science workshop has been organized by Dirk Wulff (Max Planck Institute for Human Development), Markus Strohmaier (University of Mannheim), and Rui Mata (University of Basel). 
+
+Administrative support provided by Laura Wiles, Center for Cognitive and Decision Sciences, University of Basel. 
