@@ -21,7 +21,7 @@ navbar:
     - icon: fab fa-instagram
       href: https://www.instagram.com/cdsbasel
     - icon: fab fa-github
-      href: https://github.com/cdsbasel/risk
+      href: https://github.com/cdsbasel/LLM4behavior
 output: 
   distill::distill_article:
     toc: true

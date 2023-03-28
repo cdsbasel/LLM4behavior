@@ -14,8 +14,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Training Course
 
-If you are a :hatching_chick: working with LLMs, you may benefit from an intro course! 
+If you are a :hatching_chick: regarding LLMs, you may benefit from an intro course to learn about central concepts related to LLM and and get some hands-on experience! 
 
-The first day will include an **optional training class**. 
+The first day will include an optional ** training session**, including a set of hands-on exercises.  
 
-More information will be made available soon. 
+More information about course contents will be made available soon. 

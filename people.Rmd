@@ -35,21 +35,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Additional participants (doctoral candidates, postdocs) will be invited to participate and contribute actively to the discussion and all workshop events. 
 
-<!-- Hendrik Schuff -->
+<!-- Potential additional participants as a function of core faculty recommendations: -->
 
-<!-- Marlene Lutz https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/academic-staff/marlene-lutz/ -->
+<!-- [Hendrik Schuff](https://hendrikschuff.de), University of Stuttgart -->
 
-<!-- Max Pellert https://mpellert.at/ -->
+<!-- [Marlene Lutz](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/academic-staff/marlene-lutz/), University of Mannheim -->
 
-<!-- Zakir Hussein -->
+<!-- [Max Pellert](https://mpellert.at/), University of Mannheim -->
 
-<!-- Samuel Aeschbach -->
+<!-- [Zakir Hussain](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/), University of Basel -->
 
-<!-- Shahar Hechtlinger -->
+<!-- [Samuel Aeschbach](https://samuelaeschbach.com), Max Planck Institute for Human Development -->
 
-<!-- Ezequiel López López -->
+<!-- [Shahar Hechtlinger](https://www.mpib-berlin.mpg.de/person/102108), Max Planck Institute for Human Development -->
 
-<!-- Christine Emmer -->
+<!-- [Ezequiel López López](https://www.mpib-berlin.mpg.de/person/ezequiel-lopez-lopez/171978), Max Planck Institute for Human Development -->
+
+<!-- [Christine Emmer](https://www.sowi.uni-mannheim.de/mata/team/akademische-mitarbeiterinnen-und-mitarbeiter/christine-emmer/), University of Mannheim -->
 
 ### Organization
 
