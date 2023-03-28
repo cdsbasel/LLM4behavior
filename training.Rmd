@@ -1,0 +1,21 @@
+---
+title: "Training"
+description: |
+  Introduction to LLMs for behavioral researchers
+  
+output: 
+  distill::distill_article:
+    md_extensions: +emoji
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Training Course
+
+If you are a :hatching_chick: working with LLMs, you may benefit from an intro course! 
+
+The first day will include an **optional training class**. 
+
+More information will be made available soon. 

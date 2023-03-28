@@ -1,0 +1,28 @@
+name: "LLMs for Behavioral Science"
+title: "LLMs for Behavioral Science"
+description: |
+  LLMs for the Behavioral Sciences
+output_dir: "docs"
+navbar:
+  logo:
+    image: 0_website/hex_logo.png
+    href: https://cds.unibas.ch
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Workshop"
+      href: workshop.html
+    - text: "Training"
+      href: training.html
+    - text: "People"
+      href: people.html
+    - icon: fab fa-twitter
+      href: https://twitter.com/cdsbasel
+    - icon: fab fa-instagram
+      href: https://www.instagram.com/cdsbasel
+    - icon: fab fa-github
+      href: https://github.com/cdsbasel/risk
+output: 
+  distill::distill_article:
+    toc: true
+    theme: styles.css

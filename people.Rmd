@@ -1,0 +1,56 @@
+---
+title: "People"
+description: Participants and Organization
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Core Faculty
+
+[David Garcia](https://dgarcia.eu), University of Konstanz
+
+[Lisa Beinborn](https://beinborn.eu), University of Amsterdam
+
+[Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp), TU Darmstadt
+
+[Karsten Donnay](https://www.karstendonnay.net), University of Zurich
+
+[Robert West](https://people.epfl.ch/robert.west), Swiss Federal Institute of Technology, Lausanne
+
+[Claudia Wagner](http://claudiawagner.info), RWTH Aachen University
+
+[Heiner Stuckenschmidt](https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiner-stuckenschmidt/), University of Mannheim
+
+[Jutta Mata](https://www.sowi.uni-mannheim.de/mata/), University of Mannheim
+
+[Markus Strohmaier](http://markusstrohmaier.info), University of Mannheim
+
+[Dirk Wulff](https://beinborn.eu), Max Planck Institute for Human Development
+
+[Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/), University of Basel
+
+### Additional Participants
+
+Additional participants (doctoral candidates, postdocs) will be invited to participate and contribute actively to the discussion and all workshop events. 
+
+<!-- Hendrik Schuff -->
+
+<!-- Marlene Lutz https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/academic-staff/marlene-lutz/ -->
+
+<!-- Max Pellert https://mpellert.at/ -->
+
+<!-- Zakir Hussein -->
+
+<!-- Samuel Aeschbach -->
+
+<!-- Shahar Hechtlinger -->
+
+<!-- Ezequiel López López -->
+
+<!-- Christine Emmer -->
+
+### Organization
+
+The LLMs for Behavioral Science workshop has been organized by Dirk Wulff, Markus Strohmaier, and Rui Mata. Administrative support provided by Laura Wiles, Center for Cognitive and Decision Sciences, University of Basel. 
