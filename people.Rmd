@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Robert West](https://people.epfl.ch/robert.west), Swiss Federal Institute of Technology, Lausanne
 
-[Dirk Wulff](https://beinborn.eu), Max Planck Institute for Human Development
+[Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff), Max Planck Institute for Human Development
 
 [Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/), University of Basel
 
@@ -55,6 +55,6 @@ Additional participants (doctoral candidates, postdocs) will be invited to parti
 
 ### Organization
 
-The LLMs for Behavioral Science workshop has been organized by Dirk Wulff (Max Planck Institute for Human Development), Markus Strohmaier (University of Mannheim), and Rui Mata (University of Basel). 
+The LLMs for Behavioral Science workshop has been organized by [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff) (Max Planck Institute for Human Development), [Markus Strohmaier](http://markusstrohmaier.info) (University of Mannheim), and [Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/) (University of Basel). 
 
-Administrative support provided by Laura Wiles, Center for Cognitive and Decision Sciences, University of Basel. 
+Administrative support provided by [Laura Wiles](https://psychologie.unibas.ch/de/personen/laura-wiles/), Center for Cognitive and Decision Sciences, University of Basel. 
