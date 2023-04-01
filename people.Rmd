@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Core Faculty
 
-[Lisa Beinborn](https://beinborn.eu), University of Amsterdam
+[Lisa Beinborn](https://beinborn.eu), Free University Amsterdam
 
 [Karsten Donnay](https://www.karstendonnay.net), University of Zurich
 
