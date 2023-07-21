@@ -11,13 +11,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Lisa Beinborn](https://beinborn.eu), Free University Amsterdam
 
+[Nicolai Berk](https://nicolaiberk.com/about.html), Humboldt University Berlin
+
+[Laurenz Derksen](https://pp.ethz.ch/people/laurenz-derksen.html), University of Zurich
+
 [Karsten Donnay](https://www.karstendonnay.net), University of Zurich
 
 [Christine Emmer](https://www.sowi.uni-mannheim.de/mata/team/akademische-mitarbeiterinnen-und-mitarbeiter/christine-emmer/), University of Mannheim
 
 [David Garcia](https://dgarcia.eu), University of Konstanz
-
-[Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp), TU Darmstadt
 
 [Shahar Hechtlinger](https://www.mpib-berlin.mpg.de/person/102108), Max Planck Institute for Human Development
 
@@ -33,11 +35,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Max Pellert](https://mpellert.at/), University of Mannheim
 
+[Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io), Swiss Federal Institute of Technology, Lausanne
+
+[Giuseppe Russo](https://scholar.google.com/citations?user=sl79n2QAAAAJ&hl=en), ETH
+
+[Indira Sen](https://indiiigo.github.io), RWTH Aachen University
+
 [Hendrik Schuff](https://hendrikschuff.de), University of Stuttgart
 
 [Markus Strohmaier](http://markusstrohmaier.info), University of Mannheim
 
 [Heiner Stuckenschmidt](https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiner-stuckenschmidt/), University of Mannheim
+
+[Veniamin Veselovsky](https://scholar.google.com/citations?user=2jgceW0AAAAJ&hl=en), Swiss Federal Institute of Technology, Lausanne
 
 [Claudia Wagner](http://claudiawagner.info), RWTH Aachen University
 
