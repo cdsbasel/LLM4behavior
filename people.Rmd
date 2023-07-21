@@ -7,17 +7,33 @@ description: Participants and Organization
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### Core Faculty
+[Samuel Aeschbach](https://samuelaeschbach.com), Max Planck Institute for Human Development
 
 [Lisa Beinborn](https://beinborn.eu), Free University Amsterdam
 
 [Karsten Donnay](https://www.karstendonnay.net), University of Zurich
 
+[Christine Emmer](https://www.sowi.uni-mannheim.de/mata/team/akademische-mitarbeiterinnen-und-mitarbeiter/christine-emmer/), University of Mannheim
+
 [David Garcia](https://dgarcia.eu), University of Konstanz
 
 [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp), TU Darmstadt
 
+[Shahar Hechtlinger](https://www.mpib-berlin.mpg.de/person/102108), Max Planck Institute for Human Development
+
+[Zakir Hussain](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/), University of Basel
+
+[Ezequiel López López](https://www.mpib-berlin.mpg.de/person/ezequiel-lopez-lopez/171978), Max Planck Institute for Human Development
+
+[Marlene Lutz](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/academic-staff/marlene-lutz/), University of Mannheim
+
 [Jutta Mata](https://www.sowi.uni-mannheim.de/mata/), University of Mannheim
+
+[Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/), University of Basel
+
+[Max Pellert](https://mpellert.at/), University of Mannheim
+
+[Hendrik Schuff](https://hendrikschuff.de), University of Stuttgart
 
 [Markus Strohmaier](http://markusstrohmaier.info), University of Mannheim
 
@@ -28,30 +44,6 @@ knitr::opts_chunk$set(echo = FALSE)
 [Robert West](https://people.epfl.ch/robert.west), Swiss Federal Institute of Technology, Lausanne
 
 [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff), Max Planck Institute for Human Development
-
-[Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/), University of Basel
-
-### Additional Participants
-
-Additional participants (doctoral candidates, postdocs) will be invited to participate and contribute actively to the discussion and all workshop events. 
-
-<!-- Potential additional participants as a function of core faculty recommendations: -->
-
-<!-- [Hendrik Schuff](https://hendrikschuff.de), University of Stuttgart -->
-
-<!-- [Marlene Lutz](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/academic-staff/marlene-lutz/), University of Mannheim -->
-
-<!-- [Max Pellert](https://mpellert.at/), University of Mannheim -->
-
-<!-- [Zakir Hussain](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/), University of Basel -->
-
-<!-- [Samuel Aeschbach](https://samuelaeschbach.com), Max Planck Institute for Human Development -->
-
-<!-- [Shahar Hechtlinger](https://www.mpib-berlin.mpg.de/person/102108), Max Planck Institute for Human Development -->
-
-<!-- [Ezequiel López López](https://www.mpib-berlin.mpg.de/person/ezequiel-lopez-lopez/171978), Max Planck Institute for Human Development -->
-
-<!-- [Christine Emmer](https://www.sowi.uni-mannheim.de/mata/team/akademische-mitarbeiterinnen-und-mitarbeiter/christine-emmer/), University of Mannheim -->
 
 ### Organization
 
