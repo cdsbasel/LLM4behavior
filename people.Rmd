@@ -7,6 +7,8 @@ description: Participants and Organization
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+### Participants
+
 [Samuel Aeschbach](https://samuelaeschbach.com), Max Planck Institute for Human Development
 
 [Lisa Beinborn](https://beinborn.eu), Free University Amsterdam
@@ -29,6 +31,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Marlene Lutz](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/academic-staff/marlene-lutz/), University of Mannheim
 
+[Loreen Mamerow](https://loreentisdall.github.io), University of Basel
+
 [Jutta Mata](https://www.sowi.uni-mannheim.de/mata/), University of Mannheim
 
 [Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/), University of Basel
@@ -44,8 +48,6 @@ knitr::opts_chunk$set(echo = FALSE)
 [Hendrik Schuff](https://hendrikschuff.de), University of Stuttgart
 
 [Markus Strohmaier](http://markusstrohmaier.info), University of Mannheim
-
-[Heiner Stuckenschmidt](https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiner-stuckenschmidt/), University of Mannheim
 
 [Veniamin Veselovsky](https://scholar.google.com/citations?user=2jgceW0AAAAJ&hl=en), Swiss Federal Institute of Technology, Lausanne
 
