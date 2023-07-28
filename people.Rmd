@@ -31,8 +31,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Marlene Lutz](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/academic-staff/marlene-lutz/), University of Mannheim
 
-[Loreen Mamerow](https://loreentisdall.github.io), University of Basel
-
 [Jutta Mata](https://www.sowi.uni-mannheim.de/mata/), University of Mannheim
 
 [Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/), University of Basel
@@ -48,6 +46,8 @@ knitr::opts_chunk$set(echo = FALSE)
 [Hendrik Schuff](https://hendrikschuff.de), University of Stuttgart
 
 [Markus Strohmaier](http://markusstrohmaier.info), University of Mannheim
+
+[Loreen Tisdall](https://loreentisdall.github.io), University of Basel
 
 [Veniamin Veselovsky](https://scholar.google.com/citations?user=2jgceW0AAAAJ&hl=en), Swiss Federal Institute of Technology, Lausanne
 
