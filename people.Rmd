@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Samuel Aeschbach](https://samuelaeschbach.com), Max Planck Institute for Human Development
 
-[Lisa Beinborn](https://beinborn.eu), Free University Amsterdam
+[Lisa Beinborn](https://beinborn.eu), Vrije Universiteit Amsterdam
 
 [Nicolai Berk](https://nicolaiberk.com/about.html), Humboldt University Berlin
 
