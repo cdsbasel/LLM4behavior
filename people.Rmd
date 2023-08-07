@@ -35,6 +35,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Rui Mata](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences-305/), University of Basel
 
+[Dominik Meier](https://wwz.unibas.ch/de/personen/dominik-meier/), University of Basel
+
 [Max Pellert](https://mpellert.at/), University of Mannheim
 
 [Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io), Swiss Federal Institute of Technology, Lausanne
