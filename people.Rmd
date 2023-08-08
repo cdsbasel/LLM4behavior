@@ -15,9 +15,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Nicolai Berk](https://nicolaiberk.com/about.html), Humboldt University Berlin
 
+[Tim Davidson](https://www.trdavidson.com), EPFL
+
 [Laurenz Derksen](https://pp.ethz.ch/people/laurenz-derksen.html), ETH Zurich
 
 [Karsten Donnay](https://www.karstendonnay.net), University of Zurich
+
+[Steffen Eger](https://steffeneger.github.io), Bielefeld University
 
 [Christine Emmer](https://www.sowi.uni-mannheim.de/mata/team/akademische-mitarbeiterinnen-und-mitarbeiter/christine-emmer/), University of Mannheim
 
@@ -39,9 +43,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Max Pellert](https://mpellert.at/), University of Mannheim
 
-[Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io), Swiss Federal Institute of Technology, Lausanne
+[Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io), EPFL
 
-[Giuseppe Russo](https://scholar.google.com/citations?user=sl79n2QAAAAJ&hl=en), ETH
+[Giuseppe Russo](https://scholar.google.com/citations?user=sl79n2QAAAAJ&hl=en), ETH Zurich
 
 [Indira Sen](https://indiiigo.github.io), RWTH Aachen University
 
@@ -51,11 +55,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Loreen Tisdall](https://loreentisdall.github.io), University of Basel
 
-[Veniamin Veselovsky](https://scholar.google.com/citations?user=2jgceW0AAAAJ&hl=en), Swiss Federal Institute of Technology, Lausanne
+[Veniamin Veselovsky](https://scholar.google.com/citations?user=2jgceW0AAAAJ&hl=en), EPFL
 
 [Claudia Wagner](http://claudiawagner.info), RWTH Aachen University
 
-[Robert West](https://people.epfl.ch/robert.west), Swiss Federal Institute of Technology, Lausanne
+[Robert West](https://people.epfl.ch/robert.west), EPFL
 
 [Dirk Wulff](https://www.mpib-berlin.mpg.de/staff/dirk-wulff), Max Planck Institute for Human Development
 
