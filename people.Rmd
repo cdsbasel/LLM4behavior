@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Nicolai Berk](https://nicolaiberk.com/about.html), Humboldt University Berlin
 
-[Laurenz Derksen](https://pp.ethz.ch/people/laurenz-derksen.html), University of Zurich
+[Laurenz Derksen](https://pp.ethz.ch/people/laurenz-derksen.html), ETH Zurich
 
 [Karsten Donnay](https://www.karstendonnay.net), University of Zurich
 
