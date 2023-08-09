@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Samuel Aeschbach](https://samuelaeschbach.com), Max Planck Institute for Human Development
 
+[Alexandra Bagaïni](https://psychologie.unibas.ch/de/personen/alexandra-bagaini/), University of Basel
+
 [Lisa Beinborn](https://beinborn.eu), Vrije Universiteit Amsterdam
 
 [Nicolai Berk](https://nicolaiberk.com/about.html), Humboldt University Berlin
