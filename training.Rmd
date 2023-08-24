@@ -18,8 +18,6 @@ If you are a :hatching_chick: regarding LLMs, you may benefit from an intro cour
 
 The first day will include an optional **training session**, including a set of hands-on exercises for all interested workshop participants.
 
-### Training Course
-
 ### Schedule
 1:00 PM - 1:30 PM: Welcome coffee
 1:30 AM - 2:30 AM: Intro to large language models<br>
