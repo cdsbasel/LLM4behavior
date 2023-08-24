@@ -20,7 +20,7 @@ Participants will be assigned to one of the four themes ahead of the workshop to
 
 ## Schedule
 
-Day 1: Training: The first day consists of a workshop targeting junior researchers to provide an introduction to the use of LLMs in the behavioral sciences.
+Day 1: Training: The first day consists of a workshop offered by [Zak Hussain](https://psychologie.unibas.ch/de/personen/zakir-hussain/about-me/) & [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) targeting junior researchers to provide an introduction to the use of LLMs in the behavioral sciences.
 
 Day 2: Lightning talks, working group discussions: Participants give lightning talks on their own work; working groups discuss each of the topics and prepare group presentations. 
 
