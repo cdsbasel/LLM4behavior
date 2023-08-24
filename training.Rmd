@@ -18,4 +18,20 @@ If you are a :hatching_chick: regarding LLMs, you may benefit from an intro cour
 
 The first day will include an optional **training session**, including a set of hands-on exercises for all interested workshop participants.
 
-More information about course contents will be made available soon. 
+### Training Course
+
+### Schedule
+1:00 PM - 1:30 PM: Welcome coffee
+1:30 AM - 2:30 AM: Intro to large language models<br>
+2:30 AM - 2:45 AM: Break<br>
+2:45 AM - 3:15 AM: Intro to Huggingface<br>
+3:15 AM - 4:00 PM: Exercise 1 - Predicting health perception<br>
+4:00 PM - 4:30 PM: Break<br>
+4:30 PM - 5:15 PM: Exercise 2 - Predicting personality structure<br>
+5:15 PM - 6:00 PM: Exercise 3 - Predicting cognitive reflection<br>
+6:00 PM - 6:30 PM: Discussion<br>
+
+### Materials
+
+Materials and installation instructions can be found on the [course page](https://cdsbasel.github.io/LLM4behavior_workshop). 
+
