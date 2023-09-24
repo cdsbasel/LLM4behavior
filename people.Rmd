@@ -51,7 +51,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Indira Sen](https://indiiigo.github.io), RWTH Aachen University
 
-[Hendrik Schuff](https://hendrikschuff.de), University of Stuttgart
+[Hendrik Schuff](https://hendrikschuff.de), TU Darmstadt
 
 [Markus Strohmaier](http://markusstrohmaier.info), University of Mannheim
 
